@@ -1,0 +1,27 @@
+[
+    {
+        "date": "Jul 02, 2026 17:09",
+        "conditions": "N:10, P:879, K:45, Temp:65.0\u00b0C, Hum:45.0%, pH:654.0, Rain:645.0mm",
+        "crop": "Pigeonpeas"
+    },
+    {
+        "date": "Jul 01, 2026 13:09",
+        "conditions": "N:0, P:0, K:0, Temp:0.0\u00b0C, Hum:20.0%, pH:9.0, Rain:480.0mm",
+        "crop": "Kidneybeans"
+    },
+    {
+        "date": "Jul 01, 2026 13:09",
+        "conditions": "N:0, P:0, K:5, Temp:30.0\u00b0C, Hum:80.0%, pH:7.0, Rain:800.0mm",
+        "crop": "Orange"
+    },
+    {
+        "date": "Jul 01, 2026 13:08",
+        "conditions": "N:10, P:20, K:100, Temp:5.0\u00b0C, Hum:103.0%, pH:5.5, Rain:300.6mm",
+        "crop": "Pomegranate"
+    },
+    {
+        "date": "Jul 01, 2026 13:06",
+        "conditions": "N:90, P:42, K:43, Temp:20.9\u00b0C, Hum:82.0%, pH:6.5, Rain:202.9mm",
+        "crop": "Rice"
+    }
+]
